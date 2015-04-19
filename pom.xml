@@ -73,14 +73,12 @@
 					<append>true</append>
 				</configuration>
 				<executions>
-				<!-- 
 					<execution>
 						<id>agent</id>
 						<goals>
 							<goal>prepare-agent</goal>
 						</goals>
 					</execution>
-					-->
 				</executions>
 			</plugin>
 			<plugin>
